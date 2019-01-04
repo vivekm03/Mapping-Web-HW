@@ -1,6 +1,6 @@
 # Unit 17 | Assignment - Visualizing Data with Leaflet
 
-myMap.png
+
 
 
 ## Background
